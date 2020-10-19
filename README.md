@@ -1,5 +1,5 @@
 # Wordscape Solver
-Quick python 2.7 notebook to solve Wordscape Puzzles on an Android device through using ADB.
+Quick python 2.7 notebook to solve Wordscape Puzzles on an Android device using ADB.
 
 ## Requirements
  - Python 2.7 (yes, 2.7)
